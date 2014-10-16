@@ -17,6 +17,9 @@ public class GiveRandomNumbers {
 
     }
 
+    public static void deleteFile(){
+        
+    }
     public static float[] createRandomField(int min, int max) {
         float[] field = new float[capacity];
         for (int i = 0; i < capacity; i++) {
