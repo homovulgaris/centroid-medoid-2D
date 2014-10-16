@@ -18,7 +18,7 @@ public class GiveRandomNumbers {
     }
 
     public static void deleteFile(){
-        
+
     }
     public static float[] createRandomField(int min, int max) {
         float[] field = new float[capacity];
@@ -217,7 +217,7 @@ public class GiveRandomNumbers {
 
 
         for (int i = 0; i < mainField[0].length; i++) {
-            float cX = mainField[0][i], cY = mainField[1][i];
+            float cX = mainField[0][i], cY = mainField[1][i]; //for each of points
             float curResult = 0;
             for (int c = 0; c < mainField[0].length; c++) {
                 if (c == i) continue;
@@ -226,13 +226,17 @@ public class GiveRandomNumbers {
                     float nX = mainField[0][c], nY = mainField[1][c]; //
                     float result1 = (cX - nX) * (cX - nX), result2 = (cY - nY) * (cY - nY), result3 = (float) Math.sqrt((double) (result1 + result2));
                     curResult += result3;
+                    //compute euclidean distance between point and other points
                 }
             }
             curResult = curResult / mainField[0].length;
+            //check if current average distance is less than previous
             if (curResult < bestAverageDistance) {
                 bestAverageDistance = curResult;
                 bestIndex = i;
+                //if is average distance less than previous, tag this point as momentary best solution
             }
+            // check another point
         }
         float[] finalField = new float[2];
         finalField[0] = mainField[0][bestIndex];
