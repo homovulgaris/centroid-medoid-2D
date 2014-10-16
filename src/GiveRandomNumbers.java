@@ -5,6 +5,7 @@ import java.util.Random;
 
 /**
  * Created by Jozef on 15.10.2014.
+ * this code was created in case to show how medoids and centroids can be computed in 2D
  */
 public class GiveRandomNumbers {
     public static int capacity = 120;

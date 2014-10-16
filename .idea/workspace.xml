@@ -23,21 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FastScatterPlotDemo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FastScatterPlotDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="454" max-vertical-offset="1802">
-              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GiveRandomNumbers.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GiveRandomNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33333334" vertical-offset="68" max-vertical-offset="1581">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.29166666" vertical-offset="0" max-vertical-offset="1598">
+              <caret line="7" column="88" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#createRandomField#0;class#GiveRandomNumbers#0" expanded="false" />
@@ -50,7 +40,7 @@
                 <element signature="method#editFieldTo2Fields#0;class#GiveRandomNumbers#0" expanded="false" />
                 <element signature="method#createOutliers#0;class#GiveRandomNumbers#0" expanded="false" />
                 <element signature="method#readFieldFromFile#0;class#GiveRandomNumbers#0" expanded="false" />
-                <element signature="e#4577#4585#0" expanded="true" />
+                <element signature="e#4666#4674#0" expanded="true" />
                 <element signature="method#parseToFloatArray#0;class#GiveRandomNumbers#0" expanded="false" />
                 <element signature="method#computeMedoid#0;class#GiveRandomNumbers#0" expanded="false" />
               </folding>
@@ -454,12 +444,12 @@
       <updated>1413365304079</updated>
       <workItem from="1413365308620" duration="3000" />
       <workItem from="1413365345189" duration="15603000" />
-      <workItem from="1413438042626" duration="7355000" />
+      <workItem from="1413438042626" duration="7829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22961000" />
+    <option name="totallyTimeSpent" value="23435000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -484,7 +474,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14787701" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14787701" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32921174" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -522,14 +512,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/FastScatterPlotDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="454" max-vertical-offset="1802">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GiveRandomNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3191" max-vertical-offset="3808">
@@ -546,25 +528,17 @@
             <element signature="method#editFieldTo2Fields#0;class#GiveRandomNumbers#0" expanded="false" />
             <element signature="method#createOutliers#0;class#GiveRandomNumbers#0" expanded="false" />
             <element signature="method#readFieldFromFile#0;class#GiveRandomNumbers#0" expanded="false" />
-            <element signature="e#4577#4585#0" expanded="true" />
+            <element signature="e#4666#4674#0" expanded="true" />
             <element signature="method#parseToFloatArray#0;class#GiveRandomNumbers#0" expanded="false" />
             <element signature="method#computeMedoid#0;class#GiveRandomNumbers#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FastScatterPlotDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="454" max-vertical-offset="1802">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GiveRandomNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="68" max-vertical-offset="1581">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.29166666" vertical-offset="0" max-vertical-offset="1598">
+          <caret line="7" column="88" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#createRandomField#0;class#GiveRandomNumbers#0" expanded="false" />
@@ -577,7 +551,7 @@
             <element signature="method#editFieldTo2Fields#0;class#GiveRandomNumbers#0" expanded="false" />
             <element signature="method#createOutliers#0;class#GiveRandomNumbers#0" expanded="false" />
             <element signature="method#readFieldFromFile#0;class#GiveRandomNumbers#0" expanded="false" />
-            <element signature="e#4577#4585#0" expanded="true" />
+            <element signature="e#4666#4674#0" expanded="true" />
             <element signature="method#parseToFloatArray#0;class#GiveRandomNumbers#0" expanded="false" />
             <element signature="method#computeMedoid#0;class#GiveRandomNumbers#0" expanded="false" />
           </folding>
